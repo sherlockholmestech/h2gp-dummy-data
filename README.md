@@ -7,7 +7,7 @@ This is a dummy data for the H2GP Dashboard. It is used to test the functionalit
 Clone the repository and run the following command:
 
 ```bash
-git clone https://github.com/sherlockholmestech/h2gp-dashboard-dummy-data.git
+git clone https://github.com/sherlockholmestech/h2gp-dummy-data.git
 ```
 
 Start node server:
